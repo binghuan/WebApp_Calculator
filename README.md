@@ -1,4 +1,4 @@
-calculator:
+calculator
 ============
 This is my second web application .
 User can use this simple calculator app,
